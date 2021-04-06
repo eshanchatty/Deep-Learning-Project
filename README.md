@@ -1,5 +1,7 @@
 # Deep-Learning-Project-Modelling-Using-Flask-API
-Here, We have made an Image classifier which gives us in return the top 3 possibilities the Object can represent.
+Here, We have made an Image classifier which gives us in return the top 3 possibilities the Object can represent. 
+We have used Pytorch to build our Image Classifier
+This Project has been made by Eshan Chatty, Tanisha Bisarya, Yash Sawant and Aarsh Ghewde.
 ## How to launch this?
 ``` 
 cd to the drive where this repository is located.
